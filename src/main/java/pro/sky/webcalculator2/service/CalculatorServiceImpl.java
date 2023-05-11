@@ -36,5 +36,4 @@ public class CalculatorServiceImpl implements  CalculatorService {
             throw new RuntimeException("Параметр num2 не передан");
         }
     }
-
 }

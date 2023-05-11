@@ -44,5 +44,4 @@ public class CalculatorServiceImplParametrizedTest {
         String actual = a + " / " + b + " = " + (a / b);
         assertEquals(actual, expected);
     }
-
 }

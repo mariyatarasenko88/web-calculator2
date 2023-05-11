@@ -51,4 +51,5 @@ public class CalculatorServiceImplTest {
         String actual = exception.getMessage();
         assertTrue(actual.contains(expected));
     }
+
 }

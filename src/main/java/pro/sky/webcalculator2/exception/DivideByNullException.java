@@ -15,4 +15,5 @@ public class DivideByNullException extends IllegalArgumentException {
     public DivideByNullException(Throwable cause) {
         super(cause);
     }
+
 }
